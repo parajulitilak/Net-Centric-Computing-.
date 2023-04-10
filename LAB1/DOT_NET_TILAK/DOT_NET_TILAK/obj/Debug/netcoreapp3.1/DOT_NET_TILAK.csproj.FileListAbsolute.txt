@@ -1,0 +1,14 @@
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\bin\Debug\netcoreapp3.1\DOT_NET_TILAK.exe
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\bin\Debug\netcoreapp3.1\DOT_NET_TILAK.deps.json
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\bin\Debug\netcoreapp3.1\DOT_NET_TILAK.runtimeconfig.json
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\bin\Debug\netcoreapp3.1\DOT_NET_TILAK.runtimeconfig.dev.json
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\bin\Debug\netcoreapp3.1\DOT_NET_TILAK.dll
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\bin\Debug\netcoreapp3.1\DOT_NET_TILAK.pdb
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\obj\Debug\netcoreapp3.1\DOT_NET_TILAK.csproj.AssemblyReference.cache
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\obj\Debug\netcoreapp3.1\DOT_NET_TILAK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\obj\Debug\netcoreapp3.1\DOT_NET_TILAK.AssemblyInfoInputs.cache
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\obj\Debug\netcoreapp3.1\DOT_NET_TILAK.AssemblyInfo.cs
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\obj\Debug\netcoreapp3.1\DOT_NET_TILAK.csproj.CoreCompileInputs.cache
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\obj\Debug\netcoreapp3.1\DOT_NET_TILAK.dll
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\obj\Debug\netcoreapp3.1\DOT_NET_TILAK.pdb
+C:\Users\Tilak parajuli\source\repos\DOT_NET_TILAK\DOT_NET_TILAK\obj\Debug\netcoreapp3.1\DOT_NET_TILAK.genruntimeconfig.cache
